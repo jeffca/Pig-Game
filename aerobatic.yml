@@ -1,0 +1,6 @@
+id: a566cb79-d491-43da-b2e9-7d9ee7d35cbb
+deploy:
+  ignore: []
+  directory: .
+plugins:
+  - name: webpage
